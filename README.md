@@ -3,8 +3,8 @@
 The objective is to Analyze user behavior in multi category E-commerce store to uncover friction points, product opportunities and potential optimizations in the user funnel.
 
 ## Data Overview
-
-The dataset contains around ~42 million entries, featuring 9 columns providing information such as event_time, event_type, product_id, category_id, category_code, brand, price, user_id and user_session.
+[Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data?select=2019-Oct.csv)
+- The dataset contains around ~42 million entries, featuring 9 columns providing information such as event_time, event_type, product_id, category_id, category_code, brand, price, user_id and user_session.
 
 ### Key Questions
 1. Where are users dropping off in the funnel?
