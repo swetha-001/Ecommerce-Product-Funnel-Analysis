@@ -1,4 +1,4 @@
-# E-commerce Product Funnel Analysis
+# E-commerce User Funnel Analysis
 
 The objective is to Analyze user behavior in multi category E-commerce store to uncover friction points, product opportunities and potential optimizations in the user funnel.
 
